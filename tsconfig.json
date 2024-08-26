@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6", // cho phep bien ra code kieu ES6
+    "module": "CommonJS", // tieu chuan js de lam viec voi cac module
+    "removeComments": true, // xoa comment khi bien dich code
+    "esModuleInterop": true, // use keyword import instead of require
+    "outDir": "dist"
+  }
+}
